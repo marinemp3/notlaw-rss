@@ -9,31 +9,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 04 Sep 2026 16:03:54 +0900</lastBuildDate>
-    <item>
-      <title>中華人民共和国仲裁法の改正について</title>
-      <link>https://www.nagashima.com/publications/publication20260326-1/</link>
-      <description>NO&amp;T Asia Legal Update ～アジア最新法律情報～ No.275（2026年3月） | カテゴリー: 紛争解決, 国際仲裁, 海外業務, アジア・オセアニア, 中国</description>
-      <guid isPermaLink="true">https://www.nagashima.com/publications/publication20260326-1/</guid>
-      <category>紛争解決</category>
-      <category>国際仲裁</category>
-      <category>海外業務</category>
-      <category>アジア・オセアニア</category>
-      <category>中国</category>
-      <pubDate>Sun, 01 Mar 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>会社登記手続における法務省の実質的審査の導入（インドネシア）</title>
-      <link>https://www.nagashima.com/publications/publication20260409-1/</link>
-      <description>NO&amp;T Asia Legal Update ～アジア最新法律情報～ No.276（2026年4月） | カテゴリー: コーポレート, 一般企業法務, 海外業務, アジア・オセアニア, インドネシア</description>
-      <guid isPermaLink="true">https://www.nagashima.com/publications/publication20260409-1/</guid>
-      <category>コーポレート</category>
-      <category>一般企業法務</category>
-      <category>海外業務</category>
-      <category>アジア・オセアニア</category>
-      <category>インドネシア</category>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Sep 2026 15:43:20 +0900</lastBuildDate>
     <item>
       <title>タイにおける発電事業に関する規制の動向</title>
       <link>https://www.nagashima.com/publications/publication20260416-1/</link>
@@ -191,6 +167,29 @@
       <category>アジア・オセアニア</category>
       <category>シンガポール</category>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>タイにおける個人情報保護規制の近時の動向</title>
+      <link>https://www.nagashima.com/publications/publication20260908-1/</link>
+      <description>NO&amp;T Asia Legal Update ～アジア最新法律情報～ No.290/NO&amp;T Data Protection Legal Update ～個人情報保護・データプライバシーニュースレター～No.78（2026年9月） | カテゴリー: 個人情報保護・プライバシー, 海外業務, アジア・オセアニア, タイ</description>
+      <guid isPermaLink="true">https://www.nagashima.com/publications/publication20260908-1/</guid>
+      <category>個人情報保護・プライバシー</category>
+      <category>海外業務</category>
+      <category>アジア・オセアニア</category>
+      <category>タイ</category>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>インドネシア国際金融センター構想</title>
+      <link>https://www.nagashima.com/publications/publication20260910-1/</link>
+      <description>NO&amp;T Asia Legal Update ～アジア最新法律情報～ No.291（2026年9月） | カテゴリー: コーポレート, 一般企業法務, 海外業務, アジア・オセアニア, インドネシア</description>
+      <guid isPermaLink="true">https://www.nagashima.com/publications/publication20260910-1/</guid>
+      <category>コーポレート</category>
+      <category>一般企業法務</category>
+      <category>海外業務</category>
+      <category>アジア・オセアニア</category>
+      <category>インドネシア</category>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
