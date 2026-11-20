@@ -9,20 +9,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Python RSS Feed Generator</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 23:47:21 +0900</lastBuildDate>
-    <item>
-      <title>インドにおける不動産投資信託等</title>
-      <link>https://www.nagashima.com/publications/publication20260528-2/</link>
-      <description>NO&amp;T Asia Legal Update ～アジア最新法律情報～ No.281（2026年5月） | カテゴリー: 不動産・REIT, 不動産取引, 不動産投資/証券化, 海外不動産投資, 海外業務, アジア・オセアニア</description>
-      <guid isPermaLink="true">https://www.nagashima.com/publications/publication20260528-2/</guid>
-      <category>不動産・REIT</category>
-      <category>不動産取引</category>
-      <category>不動産投資/証券化</category>
-      <category>海外不動産投資</category>
-      <category>海外業務</category>
-      <category>アジア・オセアニア</category>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Nov 2026 00:40:50 +0900</lastBuildDate>
     <item>
       <title>タイ不動産の外国人投資と土地の利用権の確保についての最近の動向</title>
       <link>https://www.nagashima.com/publications/publication20260611-1/</link>
@@ -191,6 +178,20 @@
       <category>労働法アドバイス</category>
       <category>海外業務</category>
       <category>アジア・オセアニア</category>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>タイにおける労働者福祉基金への拠出義務化の再延期及び義務化に向けた実務対応</title>
+      <link>https://www.nagashima.com/publications/publication20261119-1/</link>
+      <description>NO&amp;T Asia Legal Update ～アジア最新法律情報～ No.296（2026年11月） | カテゴリー: 労働法, 労働法アドバイス, コーポレート, 一般企業法務, 海外業務, アジア・オセアニア, タイ</description>
+      <guid isPermaLink="true">https://www.nagashima.com/publications/publication20261119-1/</guid>
+      <category>労働法</category>
+      <category>労働法アドバイス</category>
+      <category>コーポレート</category>
+      <category>一般企業法務</category>
+      <category>海外業務</category>
+      <category>アジア・オセアニア</category>
+      <category>タイ</category>
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
